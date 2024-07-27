@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-mtheintrude23/mtheintrude23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=+We+are+building+a+bot+named+H.Duong;Owner+Of+H.Duong+Bot)](https://git.io/typing-svg)
