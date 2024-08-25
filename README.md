@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=+We+are+building+a+bot+named+H.Duong;Owner+Of+H.Duong+Bot)](https://git.io/typing-svg)
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtheintrude23&show_icons=true&theme=merko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mtheintrude23&theme=solarized-dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtheintrude23&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
