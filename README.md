@@ -1,7 +1,7 @@
 # 👋 Chào mừng đến với GitHub của tôi!
 
 ## Info User
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=+We+are+building+a+bot+named+H.Duong;Owner+Of+H.Duong+Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=+Build+Milo;Code+Website;Owner+Of+H.Duong+Bot;Owner+Of+Milo+Bot)](https://git.io/typing-svg)
 
 ## 🛠 Kỹ năng của tôi:
 - **JavaScript**: Xây dựng các ứng dụng web tương tác và năng động với React, Node.js, và Express.
