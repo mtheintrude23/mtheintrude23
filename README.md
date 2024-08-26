@@ -18,5 +18,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mtheintrude23&theme=solarized-dark)](https://git.io/streak-stats)
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtheintrude23&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=mtheintrude23&label=Profile%20Views&color=2&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mtheintrude23.github.io&theme=dracular" />
+</a>
 
