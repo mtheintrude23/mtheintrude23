@@ -1,18 +1,19 @@
 # 👋 Chào mừng đến với GitHub của tôi!
 
 ## Info User
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=+Build+Milo;Code+Website;Owner+Of+H.Duong+Bot;Owner+Of+Milo+Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=11F7E5&background=1E37FF00&center=true&vCenter=true&width=435&lines=Dev+of+GH+API;Owner+Of+Plants+Vs+Brainrot+Bot;Owner+of+Grow+a+Garden+Bot)](https://git.io/typing-svg)
 
 ## 🛠 Kỹ năng của tôi:
-- **JavaScript**: Xây dựng các ứng dụng web tương tác và năng động với React, Node.js, và Express.
-- **HTML & CSS**: Thiết kế giao diện người dùng hiện đại, thân thiện và tối ưu hóa trải nghiệm người dùng.
-- **Python**: Phát triển các ứng dụng web với Django/Flask, tự động hóa tác vụ, phân tích dữ liệu, và học máy.
-- **C#**: Lập trình ứng dụng desktop, game với Unity, và các hệ thống backend.
-- **C++**: Phát triển phần mềm, game và các ứng dụng nhúng đòi hỏi hiệu năng cao.
+- **JavaScript**: Xây dựng các ứng dụng web tương tác và năng động với Node.js, và Express.
+- **HTML & CSS**: Thiết kế giao dieenj website
+- **Python**: Phát triển các ứng dụng web với Flask, FastAPI.
 
 ## 📫 Liên hệ với tôi:
-- **Email**: [nguyengiahuy123465@gmail.com](mailto:nguyengiahuy123465@gmail.com)
-- **Website**: [giahuy.is-a.dev](https://giahuy.is-a.dev/)
+| Thông tin | Liên kết |
+|------------|-----------|
+| **Email** | [nguyengiahuy123465@gmail.com](mailto:nguyengiahuy123465@gmail.com) |
+| **Website** | [giahuy.is-a.dev](https://giahuy.is-a.dev/) |
+| **My API** | [Gia Huy API](https://api-giahuy.duckdns.org) |
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtheintrude23&show_icons=true&theme=merko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mtheintrude23&theme=solarized-dark)](https://git.io/streak-stats)
