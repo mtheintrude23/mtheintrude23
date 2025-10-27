@@ -24,3 +24,4 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtheintrude23&repo=mtheintrude23.github.io&theme=dracular" />
 </a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1219514896778133594)](https://discord.com/users/1219514896778133594) 
